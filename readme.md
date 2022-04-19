@@ -1,10 +1,3 @@
 # Ejercicios prácticos
 
-## Aquí iré subiendo mis ejercicios resueltos
-
-##Ejercicios resueltos:
-
-- 1.1
-- 1.2
-- 2.1
-- 2.2
+## Aquí iré subiendo mis ejercicios resueltos y también diversas herramientas útiles para mí

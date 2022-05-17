@@ -3,7 +3,6 @@
 **Profile**
 ---------------------
 <a href="https://www.linkedin.com/in/gema-mesas-vel%C3%A1zquez-80a06b180/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30" height="30"/></a> 
-<a href="https://twitter.com/GemaPewPew" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="30" height="30"/></a>
 ---------------------
 ## Languages 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
